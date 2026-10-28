@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.77,
+    "auc": 0.7951738093080849,
+    "minimum_auc": 0.6,
+    "run_id": "4e20eb7889d54ea18a86ce6528fb1845",
+    "rows": 2000
+}
